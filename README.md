@@ -1,2 +1,2 @@
 # generic-gulp-setup
-Vanilla gulp setup. No luxuries.
+Vanilla gulp setup. Minimal luxuries.
