@@ -1,0 +1,27 @@
+{
+  "name": "generic gulp setup",
+  "version": "0.0.0",
+  "authors": [
+    "jcuratolo <jcuratolo@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "bootstrap": "~3.3.5"
+  },
+  "overrides": {
+    "bootstrap": {
+        "main": [
+            "dist/js/bootstrap.js",
+            "dist/css/bootstrap.css"
+        ]
+    }
+  }
+}
